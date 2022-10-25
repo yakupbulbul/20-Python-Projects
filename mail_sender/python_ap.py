@@ -12,10 +12,10 @@ import smtplib
 
 
 
-email_sender = ''
+email_sender = 'xxxxxx@gmail.com'
 email_password = password
 
-email_reciver = 'parix10746@imdutex.com'
+email_reciver = 'rosihe9215@3mkz.com'
 
 subject = "Your Subject"
 
